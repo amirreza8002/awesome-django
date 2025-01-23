@@ -137,6 +137,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Caching
 - [django-cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 - [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+- [django-valkey](https://github.com/amirreza8002/django-valkey) - a fully featured backend for valkey.
 
 ### Commands
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
@@ -307,6 +308,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 - [django-celery-results](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 - [django-tasks](https://github.com/realOrangeOne/django-tasks) -  A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
+- [django-valkey](https://github.com/amirreza8002/django-valkey) - a fully featured backend for valkey.
 
 ### Templates
 - [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
